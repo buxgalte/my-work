@@ -1,0 +1,8 @@
+@media(prefers-color-scheme:dark){
+    :root{
+        --body:#fff;
+        --text-color:#fff;
+        --dots:#EBEBEB;
+        --footer-link:#7177F1;
+    }
+}
